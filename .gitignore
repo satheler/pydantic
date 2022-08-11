@@ -1,6 +1,7 @@
 .idea/
 env/
 venv/
+.venv/
 env3*/
 Pipfile
 *.lock
@@ -32,3 +33,4 @@ pydantic/*.so
 /.ghtopdep_cache/
 /fastapi/
 /codecov.sh
+/worktrees/
